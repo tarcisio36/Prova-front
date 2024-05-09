@@ -1,0 +1,19 @@
+img {
+  width: 550px;
+  margin-left: 1%;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+}
+
+#links {
+  background-color: rgb(85, 70, 173);
+  width: 100%;
+  padding: 20px;
+  display: flex;
+  font-size: x large;
+  justify-content: space-around;
+  flex-direction: row;
+}
